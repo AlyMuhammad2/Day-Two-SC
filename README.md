@@ -48,7 +48,20 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------
+---- Create an Annotated Tag ---
+>git tag -a v1.7 -m "Release version 1.7"
+>git push origin v1.7
 
+---- List All Tags ---
+>git tag
 
+---- Delete Tag Locally and Remotely ---
+>git tag -d v1.7
+>git push origin --delete v1.7
 
+---- Add img ---
+>git add README.md imges/shika.jpg
+>git commit -m "Add img"
+>git pull 
+>git push origin master
 ![.......](imges/shika.jpg)
