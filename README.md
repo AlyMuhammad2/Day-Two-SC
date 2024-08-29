@@ -1,5 +1,5 @@
 "# Day Tow " 
-![.......](images/shika.png)
+![.......](imges/shika.jpg)
 
 ---- Create a New Project and Push to Remote Repo ----
 >mkdir Day-Two-SC
