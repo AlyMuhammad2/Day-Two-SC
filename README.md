@@ -1,5 +1,4 @@
 "# Day Tow " 
-![.......](imges/shika.jpg)
 
 ---- Create a New Project and Push to Remote Repo ----
 >mkdir Day-Two-SC
@@ -46,3 +45,10 @@
 >git stash
 >git checkout another-branch
 >git stash pop
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+![.......](imges/shika.jpg)
